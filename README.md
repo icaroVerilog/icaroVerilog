@@ -1,5 +1,5 @@
 # Hi there, my name is Ícaro
-  I'm a computer science student, passionated for machine learning and python
+  I'm a computer science student, passionated for machine learning and C/C++
 
 ## Status
 <table width="100%">
