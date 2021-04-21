@@ -1,7 +1,7 @@
 # Hi there, my name is Ícaro
   I'm a computer science student, passionated for machine learning and C/C++
   
-  Researcher at @lesc
+  Researcher at Laboratório de Engenharia de Sistemas da Computação - Universidade Federal de Viçosa 
 
 ## Status
 <table width="100%">
