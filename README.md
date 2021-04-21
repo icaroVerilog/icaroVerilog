@@ -1,7 +1,7 @@
 # Hi there, my name is Ícaro
   I'm a computer science student, passionated for machine learning and C/C++
   
-  Researcher at Computer Systems Engineering Laboratory - UFV
+  Researcher at @lesc
 
 ## Status
 <table width="100%">
