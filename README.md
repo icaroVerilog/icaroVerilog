@@ -17,7 +17,7 @@
 
 ## ⚙️ Skills
 
-# Dev 
+### Dev 
 
 <br>
 <p>
@@ -35,7 +35,7 @@
 </p>
 <br>
 
-# Machine learning and data science
+### Machine learning and data science
 
 
 <br>
